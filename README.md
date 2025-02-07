@@ -20,7 +20,7 @@ This system simulates a **real-world cloud database** where AI-driven analytics 
 | **pandas**          | Data handling and preprocessing. |
 | **python-dotenv**   | Securely managing environment variables. |
 
-🔹 **Why These Technologies?**  
+
 - Flask is **easy to use** and **lightweight**, perfect for building RESTful APIs.  
 - SQLAlchemy simplifies database operations without complex SQL queries.  
 - SQLite provides a **lightweight, embedded database** for local testing.  
