@@ -9,6 +9,16 @@ This system simulates a **real-world cloud database** where AI-driven analytics 
 
 ---
 
+## ⭐ Features  
+
+✅ **Flask REST API** for handling database transactions.  
+✅ **SQLite Integration** to store and retrieve transactions.  
+✅ **Basic AI Module** to analyze and suggest query optimizations.  
+✅ **Automated Transaction Simulation** for testing system behavior.  
+✅ **Postman & cURL Support** for easy API interaction.  
+✅ **Error Handling & Debugging** to prevent unexpected crashes.  
+
+
 ## 🛠 Tech Stack & Why  
 
 | **Technology**       | **Purpose** |
@@ -95,16 +105,6 @@ python simulation.py
 ```
 
 ---
-
-## ⭐ Features  
-
-✅ **Flask REST API** for handling database transactions.  
-✅ **SQLite Integration** to store and retrieve transactions.  
-✅ **Basic AI Module** to analyze and suggest query optimizations.  
-✅ **Automated Transaction Simulation** for testing system behavior.  
-✅ **Postman & cURL Support** for easy API interaction.  
-✅ **Error Handling & Debugging** to prevent unexpected crashes.  
-
 ---
 
 ## ⚙️ Configuration  
