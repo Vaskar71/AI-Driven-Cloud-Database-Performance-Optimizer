@@ -48,7 +48,7 @@ This system simulates a **real-world cloud database** where AI-driven analytics 
 
 ### 🔹 1. Clone the Repository  
 ```bash
-git clone https://github.com/your-username/AI-Cloud-DB-Management.git
+git clone https://github.com/Vaskar71/AI-Driven-Cloud-Database-Performance-Optimizer.git
 cd AI-Cloud-DB-Management
 ```
 
