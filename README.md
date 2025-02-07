@@ -18,6 +18,7 @@ This system simulates a **real-world cloud database** where AI-driven analytics 
 ✅ **Postman & cURL Support** for easy API interaction.  
 ✅ **Error Handling & Debugging** to prevent unexpected crashes.  
 
+---
 
 ## 🛠 Tech Stack & Why  
 
@@ -104,7 +105,6 @@ curl http://127.0.0.1:5000/transactions
 python simulation.py
 ```
 
----
 ---
 
 ## ⚙️ Configuration  
