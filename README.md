@@ -1,6 +1,8 @@
 # AI-Based Cloud Database Management System  
 🚀 **An AI-powered database management system that optimizes query performance and safeguards data integrity using Flask, SQLAlchemy, and Scikit-learn.**
 
+https://github.com/Vaskar71/AI-Driven-Cloud-Database-Performance-Optimizer/blob/main/System%20architecture.png?raw=true
+
 ## 📖 Description  
 
 The **AI-Based Cloud Database Management System** is a Flask-powered API that allows users to manage simulated cloud database transactions while utilizing a basic AI model to suggest query optimizations. The project enables **storing, retrieving, and analyzing** database transactions while providing **automated AI-based recommendations** to improve performance.  
