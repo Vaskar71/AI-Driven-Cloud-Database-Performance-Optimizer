@@ -168,12 +168,15 @@ For a performance metric of 1.8, Suggested optimization level: 3.10
 ## 📸 Screenshots  
 
 📌 **[Attach relevant screenshots here]**  
-- ✅ Flask API running (`python app.py`)  
-- ✅ Postman API test (`POST /transaction`)  
-- ✅ Transaction logs (`GET /transactions`)  
-- ✅ AI Optimization Output (`python simulation.py`)  
+- ✅ Flask API running (`python app.py`)
+![Image](https://github.com/user-attachments/assets/43c00392-4450-440c-a51b-6b3bd6d058d3)
+![Image](https://github.com/user-attachments/assets/b6980cae-87b9-471d-b75c-d488f3f1ba65)
+- ✅ Postman API test (`POST /transaction`)
+![Image](https://github.com/user-attachments/assets/626467b1-251c-4002-998a-310dce590c1c)
+- ✅ AI Optimization Output (`python simulation.py`)
+![Image](https://github.com/user-attachments/assets/3b761ec3-33dc-4bef-9ebc-7b1a45d31872)
 - ✅ Database Structure in SQLite  
-
+![Image](https://github.com/user-attachments/assets/03ca4c6b-6b21-4ee3-9500-a1bcce6bf40d)
 ---
 
 ## 🤝 Contributing  
@@ -184,16 +187,6 @@ We welcome contributions! To contribute:
 3. Commit your changes (`git commit -m "Added new feature"`).  
 4. Push the branch (`git push origin feature-branch`).  
 5. Create a **Pull Request**.  
-
-See [`CONTRIBUTING.md`](CONTRIBUTING.md) for detailed guidelines.  
-
----
-
-## 📜 License  
-
-This project is licensed under the **MIT License**. See [`LICENSE`](LICENSE) for details.  
-
----
 
 ## 📩 Contact  
 
